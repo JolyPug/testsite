@@ -1,0 +1,74 @@
+body{
+   position: center;
+}
+
+.title {
+	color: #5C6AC4;
+}
+.container
+{
+  width: 595px; 
+  height: 842px;
+  margin: 0 auto;
+}
+.header 
+{
+  margin-left: 210px;
+  margin-top: 32px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-size: 22px;
+}
+.work_done
+{
+  margin-left: 61px;
+  margin-top: 92px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 22px;
+}
+.name_sanzh
+{
+  margin-left: 274px;
+  margin_top: 152px;
+  
+  font-family: Helvetica light;
+  font-size: 22px;
+}
+.jpg_sanzh
+{
+  width: 177px;
+  height: 177px;
+  margin-left: 319px;
+  margin-top: 197px;
+  border-radius; 16px;
+}
+.name_melesh
+{
+  margin-left: 61px;
+  margin-top: 384px;
+  font-family: Helvetica light;
+  font-size: 22px;
+}
+.jpg_ivan
+{
+  width: 177px;
+  height: 177px;
+  margin-left: 140px;
+  margin-top: 423px;
+  border-radius: 16px;
+}
+
+.name_dmitrii
+{
+  margin-left: 239px;
+  margin-top: 610px;
+  font-family: Helvetica light;
+  font-size:22px;
+}
+.jpg_dmitrii
+{
+  width: 177px;
+  height: 177px;
+  margin-left: 319px;
+  margin-top: 653px;
+  border-radius: 16px;
+}
